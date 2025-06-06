@@ -1,7 +1,8 @@
 # Exploratory-Data-Analysis-EDA-
 🔍 Task 5: Exploratory Data Analysis (EDA)
 
-🎯 Goal
+🎯 Goal: 
+
 This task aims to perform an Exploratory Data Analysis (EDA) on the Titanic dataset to understand the data, uncover important relationships, and generate insights that could guide future predictive modeling.
 
 🧰 Tools & Libraries
@@ -20,23 +21,23 @@ Loaded dataset and reviewed structure with .info(), .describe(), and .value_coun
 
 Identified column types and distributions
 
-🧹 Data Cleaning
+ Data Cleaning:
 
-Addressed missing values in Age, Cabin, and Embarked
+ -Addressed missing values in Age, Cabin, and Embarked
 
-Ensured consistency in data types and formats
+ -Ensured consistency in data types and formats
 
-📊 Univariate Analysis
+ Univariate Analysis:
 
-Analyzed individual features like Sex, Age, Pclass, and Fare
+ -Analyzed individual features like Sex, Age, Pclass, and Fare
 
-Used histograms, count plots, and box plots
+ -Used histograms, count plots, and box plots
 
-🔗 Bivariate Analysis
+Bivariate Analysis:
 
-Explored relationships between survival and other variables
+ -Explored relationships between survival and other variables
 
-Studied how class, gender, age, and fare impacted survival
+ -Studied how class, gender, age, and fare impacted survival
 
 📈 Visualizations Used
 
@@ -50,7 +51,8 @@ pairplot() – Feature relationships
 
 heatmap() – Correlation matrix
 
-🔍 Insights & Observations
+🔍 Insights & Observations:
+
 Survival & Gender: Females had a much higher survival rate than males
 
 Survival & Class: First-class passengers had better survival chances
