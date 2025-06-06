@@ -6,6 +6,7 @@
 This task aims to perform an Exploratory Data Analysis (EDA) on the Titanic dataset to understand the data, uncover important relationships, and generate insights that could guide future predictive modeling.
 
 🧰 Tools & Libraries
+
 Python
 
 Pandas for data handling
@@ -15,6 +16,7 @@ Matplotlib and Seaborn for plotting
 Jupyter Notebook for development and documentation
 
 📝 Task Highlights
+
 🔍 Initial Exploration
 
 Loaded dataset and reviewed structure with .info(), .describe(), and .value_counts()
