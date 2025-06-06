@@ -23,21 +23,21 @@ Identified column types and distributions
 
  Data Cleaning:
 
- -Addressed missing values in Age, Cabin, and Embarked
+ Addressed missing values in Age, Cabin, and Embarked
 
- -Ensured consistency in data types and formats
+ Ensured consistency in data types and formats
 
  Univariate Analysis:
 
- -Analyzed individual features like Sex, Age, Pclass, and Fare
+ Analyzed individual features like Sex, Age, Pclass, and Fare
 
- -Used histograms, count plots, and box plots
+ Used histograms, count plots, and box plots
 
 Bivariate Analysis:
 
- -Explored relationships between survival and other variables
+ Explored relationships between survival and other variables
 
- -Studied how class, gender, age, and fare impacted survival
+ Studied how class, gender, age, and fare impacted survival
 
 📈 Visualizations Used
 
